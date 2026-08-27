@@ -1,4 +1,13 @@
 # 💳 Loan Approval Prediction System
+
+<img width="192" height="201" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/b01a58a1-0c32-4898-9e47-eed063e09a92" />
+
+
+
+
+
+
+
 ### Machine Learning Development Internship Task — Infobharat Interns (IBI)
 
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
